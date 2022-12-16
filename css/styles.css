@@ -5,10 +5,6 @@ body {
     color: #40514E;
   }
 
-div {
-
-}  
-
 h1 {   
   color: #66BFBF;  
   font-size: 5.625rem ;
@@ -121,6 +117,14 @@ hr {
   border-radius: 50%;
   float: right;
   margin-left: 30px;
+}
+
+.cm-skill {
+  padding-bottom: 50px;
+}
+
+.python-skill {
+  padding-bottom: 50px;
 }
 
 .contact-me {
